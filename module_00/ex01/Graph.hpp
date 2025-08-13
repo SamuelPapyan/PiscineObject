@@ -17,10 +17,8 @@
 #include "MyRuntimeError.hpp"
 #include "Vector2.hpp"
 #include <iostream>
-#include <fstream>
 #include <vector>
 #include <utility>
-#include <cmath>
 
 class Graph
 {
